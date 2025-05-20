@@ -1,6 +1,6 @@
-📊 Customer Segmentation for SBI Life Insurance
+📊 #Customer Segmentation for SBI Life Insurance
 
-🧾 Overview
+🧾 #Overview
 
 This project focuses on customer segmentation using behavioral data from credit card holders, with the objective of offering targeted recommendations in the financial services domain—such as savings plans, loans, and wealth management.
 
